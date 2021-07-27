@@ -8,7 +8,7 @@
 
 --- Task 2 ---
 
--> Displaying the price of cars with respect to mileage, year, mpg and engineSize in addition to transmission in the form of a scatterplot.
+-> Displaying the price of cars with respect to mileage, year, mpg and engineSize in addition to transmission in the form of a scatterplot.     
 -> Depicting the price of cars with respect to mileage, year, mpg and engineSize with a trend line in the form of a regressionplot.
 
 --- Task 3 ---
