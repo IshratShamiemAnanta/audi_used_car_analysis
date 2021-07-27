@@ -2,8 +2,8 @@
 
 --- Task 1 ---
 
--> Reading a csv file (audi.csv) and displaying the whole dataset. 
--> Finding out the percentage of cars with respect to model, year, transmission and fuelType. 
+-> Reading a csv file (audi.csv) and displaying the whole dataset.                                  
+-> Finding out the percentage of cars with respect to model, year, transmission and fuelType.                                         
 -> Displaying the percentage of cars with respect to model, year, transmission and fuelType in the form of a barplot.
 
 --- Task 2 ---
