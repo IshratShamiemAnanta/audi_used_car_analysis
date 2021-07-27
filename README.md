@@ -13,7 +13,7 @@
 
 --- Task 3 ---
 
--> Displaying the price of cars with respect to mileage, year, mpg and engineSize in the form of a histogram.
+-> Displaying the price of cars with respect to mileage, year, mpg and engineSize in the form of a histogram.                         
 -> Portaying the Distribution and ECDF plots for mileage and mpg of the cars.
     
 --- Task 4 ---
