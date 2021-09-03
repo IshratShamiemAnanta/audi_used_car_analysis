@@ -21,3 +21,9 @@ Original data source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-au
 --- Task 4 ---
 
 -> Displaying the  mileage and mpg of cars with respect to transmission in the form of a boxplot.
+
+--- Task 5 ---
+
+-> EDA using groupby and showing the barplots of the cars based on model, transmission and fuel type.
+-> Finding out the top 5 selling car models in the dataset along with the average selling price and the total sale value of the same.
+
