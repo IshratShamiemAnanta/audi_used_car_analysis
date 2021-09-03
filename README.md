@@ -4,8 +4,8 @@ Original data source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-au
 
 --- Task 1 ---
 
--> Reading a csv file (audi.csv) and displaying the whole dataset.                                  
--> Finding out the percentage of cars with respect to model, year, transmission and fuelType.                                         
+-> Reading a csv file (audi.csv) and displaying the whole dataset.                                
+-> Finding out the percentage of cars with respect to model, year, transmission and fuelType.                                     
 -> Displaying the percentage of cars with respect to model, year, transmission and fuelType in the form of a barplot.
 
 --- Task 2 ---
@@ -24,6 +24,6 @@ Original data source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-au
 
 --- Task 5 ---
 
--> EDA using groupby and showing the barplots of the cars based on model, transmission and fuel type.
+-> EDA using groupby and showing the barplots of the cars based on model, transmission and fuel type.                                                                      
 -> Finding out the top 5 selling car models in the dataset along with the average selling price and the total sale value of the same.
 
