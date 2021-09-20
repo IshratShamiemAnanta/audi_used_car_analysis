@@ -1,4 +1,4 @@
-# Data_Visualization_With_Python, Data_Analysis_With_Python and Machine_Learning_With_Python
+# Data_Visualization, Data_Analysis and Machine_Learning with Python
 
 Original data source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
 
