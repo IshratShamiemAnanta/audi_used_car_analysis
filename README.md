@@ -27,3 +27,9 @@ Original data source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-au
 -> EDA using groupby and showing the barplots of the cars based on model, transmission and fuel type.                                                                      
 -> Finding out the top 5 selling car models in the dataset along with the average selling price and the total sale value of the same.
 
+--- Task 6 ---
+
+-> Separating the numeric features and target variable.                                                           
+-> Splitting the original dataset into the train set (80%) and the test set (20%).                                                                    
+-> Performing Linear Regression and Predict the 'Price' from the test set.                                                                                     
+-> Finding the RMSE value from the actual test data and the predicted data.      
